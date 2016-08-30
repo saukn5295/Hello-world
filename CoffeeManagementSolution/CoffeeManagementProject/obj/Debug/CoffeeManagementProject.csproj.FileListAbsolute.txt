@@ -1,0 +1,9 @@
+D:\learn.NetFramework\learnSolution\CoffeeManagementSolution\CoffeeManagementProject\bin\Debug\CoffeeManagementProject.exe.config
+D:\learn.NetFramework\learnSolution\CoffeeManagementSolution\CoffeeManagementProject\bin\Debug\CoffeeManagementProject.exe
+D:\learn.NetFramework\learnSolution\CoffeeManagementSolution\CoffeeManagementProject\bin\Debug\CoffeeManagementProject.pdb
+D:\learn.NetFramework\learnSolution\CoffeeManagementSolution\CoffeeManagementProject\obj\Debug\CoffeeManagementProject.csprojResolveAssemblyReference.cache
+D:\learn.NetFramework\learnSolution\CoffeeManagementSolution\CoffeeManagementProject\obj\Debug\CoffeeManagementProject.GUI.DataCategory.FormCategory.resources
+D:\learn.NetFramework\learnSolution\CoffeeManagementSolution\CoffeeManagementProject\obj\Debug\CoffeeManagementProject.Properties.Resources.resources
+D:\learn.NetFramework\learnSolution\CoffeeManagementSolution\CoffeeManagementProject\obj\Debug\CoffeeManagementProject.csproj.GenerateResource.Cache
+D:\learn.NetFramework\learnSolution\CoffeeManagementSolution\CoffeeManagementProject\obj\Debug\CoffeeManagementProject.exe
+D:\learn.NetFramework\learnSolution\CoffeeManagementSolution\CoffeeManagementProject\obj\Debug\CoffeeManagementProject.pdb
